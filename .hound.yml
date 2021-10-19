@@ -1,9 +1,3 @@
 flake8:
-<<<<<<< HEAD
   enabled: true
   config_file: .flake8
-=======
-    enabled: true
-    config_file: .flake8
-    
->>>>>>> af4b4964... Add hound and flake8 config files

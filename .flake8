@@ -1,6 +1,2 @@
 [flake8]
-<<<<<<< HEAD
 per-file-ignores = flask/__init__.py:F401
-=======
-per-file-ignores = flask/__init__.py:F401
->>>>>>> af4b4964... Add hound and flake8 config files
